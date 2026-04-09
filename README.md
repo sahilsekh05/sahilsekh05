@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building data-driven dashboards and analytics projects using Power BI, SQL, and Python  <br>🤝 I’m looking to collaborate on data analytics, business intelligence, and real-world problem-solving projects  <br>🧠 I’m looking for help with advanced data modelling, DAX optimisation, and scalable analytics solutions  <br>🌱 I’m currently learning advanced analytics, business strategy, and improving my problem-solving skills  <br>💬 Ask me about Power BI, SQL, Python, data visualisation, and business insights  <br>⚡ Fun fact: I helped improve business profitability by 35–40% using data-driven strategies:contentReference[oaicite:0]{index=0}
+🔭 I’m currently working on building data-driven dashboards and analytics projects using Power BI, SQL, and Python  <br>🤝 I’m looking to collaborate on data analytics, business intelligence, and real-world problem-solving projects  <br>🧠 I’m looking for help with advanced data modelling, DAX optimisation, and scalable analytics solutions  <br>🌱 I’m currently learning advanced analytics, business strategy, and improving my problem-solving skills  <br>💬 Ask me about Power BI, SQL, Python, data visualisation, and business insights  <br>⚡ Fun fact: I helped improve business profitability by 35–40% using data-driven strategies.
 
 
 ## 🌐 Socials:
